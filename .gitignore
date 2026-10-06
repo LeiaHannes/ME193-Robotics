@@ -24,3 +24,8 @@
 # Throwaway venv created by virtualTesting/setup_test_env.py, ignored even
 # inside "Public stuff"
 Public stuff/virtualTesting/test/
+
+!leia_folder/
+!leia_folder/**
+leia_folder/**/__pycache__/
+leia_folder/**/*.npy
